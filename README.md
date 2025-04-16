@@ -8,6 +8,8 @@
 
 This tool is specifically designed to convert CSV format files to Valve Data Format (VDF) for Steam achievement localization. It helps game developers manage and update achievement translations across multiple languages.
 
+<img width="400" src="./Preview//01.png">
+
 ## Features
 
 - Supports any number and type of languages (not limited to the four in examples)
